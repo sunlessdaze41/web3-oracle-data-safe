@@ -1,0 +1,31 @@
+{
+  "name": "web3-oracle-data-safe",
+  "version": "1.0.0",
+  "description": "Ensure data safety and integrity with a tool for secure Web3 oracle data management.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sunlessdaze41/web3-oracle-data-safe"
+  },
+  "author": "sunlessdaze41",
+  "license": "MIT",
+  "dependencies": {
+    "web3-oracle-data-parser": "1.0.0",
+    "web3-oracle-data-safe": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "dotenv": "1.0.0",
+    "cheerio": "1.0.0",
+    "mongoose": "1.0.0",
+    "ethers": "1.0.0",
+    "mysql": "1.0.0",
+    "ejs": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "chalk": "1.0.0",
+    "solc": "1.0.0",
+    "sinon": "1.0.0"
+  }
+}
